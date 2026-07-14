@@ -1,9 +1,8 @@
 {
   "targets": {
     "Steam Frame": {
-      "error_notified": true,
-      "last_error": "fetch failed: HTTP Error 500: Internal Server Error",
-      "status": "error"
+      "error_notified": false,
+      "status": "waiting"
     }
   }
 }
