@@ -1,9 +1,8 @@
 {
   "targets": {
     "Steam Frame": {
-      "error_notified": true,
-      "last_error": "fetch failed: HTTP Error 404: Not Found",
-      "status": "error"
+      "error_notified": false,
+      "status": "waiting"
     }
   }
 }
