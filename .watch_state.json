@@ -1,9 +1,8 @@
 {
   "targets": {
     "Steam Frame": {
-      "error_notified": true,
-      "last_error": "no commerce widget and page looks unexpected (blocked?)",
-      "status": "error"
+      "error_notified": false,
+      "status": "waiting"
     }
   }
 }
