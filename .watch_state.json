@@ -2,7 +2,7 @@
   "targets": {
     "Steam Frame": {
       "error_notified": true,
-      "last_error": "sanity token missing: 'Steam Frame' (blocked/changed?)",
+      "last_error": "fetch failed: HTTP Error 500: Internal Server Error",
       "status": "error"
     }
   }
