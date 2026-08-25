@@ -1,9 +1,8 @@
 {
   "targets": {
     "Steam Frame": {
-      "error_notified": true,
-      "last_error": "sanity token missing: 'Steam Frame' (blocked/changed?)",
-      "status": "error"
+      "error_notified": false,
+      "status": "waiting"
     }
   }
 }
